@@ -50,5 +50,10 @@ header{
 }
 
 .menu ul li a:hover{
-    border-bottom: 5px solid whitesmoke;
+    color: royalblue;
+    border-bottom: 5px solid royalblue;
+}
+
+.section-service img{
+    width: 90px;
 }
